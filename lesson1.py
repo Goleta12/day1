@@ -1,0 +1,1 @@
+print("gakvetili 1")
